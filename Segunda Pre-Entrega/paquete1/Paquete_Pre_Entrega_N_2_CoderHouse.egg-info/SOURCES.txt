@@ -1,0 +1,7 @@
+modulo_cliente.py
+modulo_preEntrega1.py
+setup.py
+Paquete_Pre_Entrega_N_2_CoderHouse.egg-info/PKG-INFO
+Paquete_Pre_Entrega_N_2_CoderHouse.egg-info/SOURCES.txt
+Paquete_Pre_Entrega_N_2_CoderHouse.egg-info/dependency_links.txt
+Paquete_Pre_Entrega_N_2_CoderHouse.egg-info/top_level.txt
