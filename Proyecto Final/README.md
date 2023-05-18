@@ -22,6 +22,7 @@ Algunas posibles Pruebas a realizar son:
 - Eliminar producto (Solo como admin).
 - Editar producto (Solo como admin).
 - Iniciar sesión con usuario 'test' password 'test1234@' y cambiar atributos del usuario desde "nav -> Editar Perfil".
+- Crear nuevo perfil desde "nav -> Registrarse".
 
 Espero que les guste,
 Saludos!
